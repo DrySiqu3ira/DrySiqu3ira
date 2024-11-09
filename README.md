@@ -22,7 +22,9 @@
 
 ## Projetos em Destaque
 
-- [**Nome do Projeto 1**](URL_do_projeto_1) - Breve descrição do projeto.
+- [**Landing Page**](https://drysiqu3ira.github.io/css-desafio-01/) - O projeto é uma landing page simples, com um layout moderno e responsivo, projetada para capturar a atenção dos visitantes e incentivá-los a realizar uma ação, como se inscrever em um serviço ou obter mais informações sobre um produto. O foco principal está na criação do CSS para estilizar e organizar os componentes visuais da página.
+
+
 - [**Nome do Projeto 2**](URL_do_projeto_2) - Breve descrição do projeto.
 - [**Nome do Projeto 3**](URL_do_projeto_3) - Breve descrição do projeto.
 
