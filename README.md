@@ -25,8 +25,8 @@
 - [**Landing Page**](https://drysiqu3ira.github.io/css-desafio-01/) - O projeto é uma landing page simples, com um layout moderno e responsivo, projetada para capturar a atenção dos visitantes e incentivá-los a realizar uma ação, como se inscrever em um serviço ou obter mais informações sobre um produto. O foco principal está na criação do CSS para estilizar e organizar os componentes visuais da página.
 
 
-- [**Nome do Projeto 2**](URL_do_projeto_2) - Breve descrição do projeto.
-- [**Nome do Projeto 3**](URL_do_projeto_3) - Breve descrição do projeto.
+- [**Jogo Detona Ralph**](https://drysiqu3ira.github.io/jsgame-detona-ralph-me/) - O projeto é um jogo simples, mas altamente funcional, que consegue prender a atenção do usuário. Criado com HTML, CSS e JavaScript, ele oferece uma experiência interativa. A ideia por trás do jogo foi criar uma dinâmica fácil de aprender, mas desafiadora o suficiente para manter o jogador entretido.
+<!-- [**Nome do Projeto 3**](URL_do_projeto_3) - Breve descrição do projeto. -->
 
 ---
 
