@@ -26,6 +26,7 @@
 
 
 - [**Jogo Detona Ralph**](https://drysiqu3ira.github.io/jsgame-detona-ralph-me/) - O projeto é um jogo simples, mas altamente funcional, que consegue prender a atenção do usuário. Criado com HTML, CSS e JavaScript, ele oferece uma experiência interativa. A ideia por trás do jogo foi criar uma dinâmica fácil de aprender, mas desafiadora o suficiente para manter o jogador entretido.
+  - [**Portfólio**](https://drysiqu3ira.github.io/) - Este projeto de portfólio foi desenvolvido para destacar habilidades e experiências profissionais de forma criativa e acessível. Através de uma interface limpa e intuitiva, ele apresenta uma coleção de trabalhos anteriores. O objetivo do portfólio é demonstrar a capacidade de adaptação a diferentes demandas e estilos, refletindo a versatilidade e competência do profissional.
 <!-- [**Nome do Projeto 3**](URL_do_projeto_3) - Breve descrição do projeto. -->
 
 ---
