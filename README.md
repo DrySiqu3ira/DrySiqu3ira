@@ -12,6 +12,16 @@
 
 ---
 
+## About Me
+🌱 Currently studying **Systems Analysis and Development**  
+💻 My main skill is **Web Development**  
+🎨 I value creativity and always seek to apply innovative solutions to solve problems effectively.  
+🤝 I balance teamwork well with autonomy, which allows me to deal with challenges calmly and creatively.  
+🎯 My long-term goal is to become an expert in my field, always dedicated to improving my skills and knowledge.  
+💪Perseverance and dedication are my pillars for professional growth.
+
+---
+
 ## Tecnologias e Ferramentas
 
 | Linguagens   | Linguagens   | Linguagens   | Linguagens   | Linguagens   |
